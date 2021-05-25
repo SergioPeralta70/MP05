@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"recuperacion_mp05","l":"vectorial"}];updateSearchResults();
